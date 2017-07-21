@@ -742,7 +742,7 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
     ritic: "Ritic der Kalte" # Ritic Announcement Modal
     ritic_description: "Ritic der Kalte. Lange eingeschlossen im Kelvintaph Gletscher, endlich frei und bereit, sich den Ogern anzunehmen, die ihn gefangen setzen."
     ice_block: "Ein Eisblock"
-    ice_description: "Da scheint etwas eingeschlossen zu sein..." 
+    ice_description: "Da scheint etwas eingeschlossen zu sein..."
     blink_name: "Blinzel"
     blink_description: "Ritic erscheint und verschwindet in einem Wimpernschlag und lässt nur seinen Schatten zurück"
     shadowStep_name: "Schattenschrit"
@@ -2283,3 +2283,4 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
     fx_missing_paren: "Wenn du `$1` als Funktion verwenden möchtest, dann brauchst du `()`."
     unmatched_token: "`$1` ohne Gegenpart.  Jede öffnende `$2` benötigt eine zugehörige schließende `$3`."
     unterminated_string: "String ohne Abschluss. Füge ein ein `\"` am Ende deiner Zeichenkette hinzu."
+    missing_semicolon: "Missing semicolon [deutsch]." #nocommit
